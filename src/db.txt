@@ -1,0 +1,1 @@
+<script>AddText('James: Hello');</script><script>AddText(': gyhi');</script><script>AddText(': hi');</script><script>AddText('ooopo: l.');</script><script>AddText('ooopo: jkjj');</script><script>AddText('ooopo: kjkjjkh');</script>
